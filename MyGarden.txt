@@ -4,9 +4,9 @@ Lily
 Hyacinth
 
 Trees:
-Linden
-Maple
-Aspen
+Pine
+Spruce
+Fir
 
 Hobby:
 Grill
